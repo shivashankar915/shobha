@@ -6,3 +6,5 @@ print ""
 print "</head><body>"
 print "Hello."
 print "</body></html>"
+
+print("how are you")
